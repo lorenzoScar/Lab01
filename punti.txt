@@ -1,4 +1,8 @@
-Paolo 4
-Lucia 1
-Mario 1
-Giuseppe 0
+ Riccardo 4
+ Paolo 4
+ Lorenzo 3
+ Marco 2
+ Lorenzo 2
+ Lucia 1
+ Mario 1
+ Giuseppe 0
